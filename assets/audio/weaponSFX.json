@@ -1,0 +1,33 @@
+{
+  "resources": [
+    "assets/audio/weaponSFX.ogg"
+  ],
+  "spritemap": {
+    "casing1": {
+      "start": 0.115,
+      "end": 2.088,
+      "loop": false
+    },
+    "casing2": {
+      "start": 2.35,
+      "end": 4.422,
+      "loop": false
+    },
+    "casing3": {
+      "start": 4.709,
+      "end": 6.3,
+      "loop": false
+    },
+    "m9": {
+      "start": 6.37,
+      "end": 7.2,
+      "loop": false
+    },
+    "sniper": {
+      "start": 7.38,
+      "end": 9.45,
+      "loop": false
+    }
+  },
+  "autoplay": "1"
+}

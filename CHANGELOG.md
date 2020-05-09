@@ -1,0 +1,4 @@
+## EDOGORDITOS CHANGELOG
+
+#### 2018-06-30
+- Base app
